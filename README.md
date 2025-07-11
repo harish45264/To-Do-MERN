@@ -1,8 +1,3 @@
-Here’s a clean and professional `README.md` for your **ToDo MERN Stack Project** using Node.js, Express, React, MongoDB, and Bootstrap:
-
----
-
-```markdown
 # 📝 ToDo Project with MERN Stack
 
 A simple and responsive full-stack To-Do List web application built using the **MERN stack** (MongoDB, Express.js, React, Node.js) and styled with **Bootstrap**. The app allows users to add, edit, and delete tasks with a title and description.
@@ -53,7 +48,7 @@ A simple and responsive full-stack To-Do List web application built using the **
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot 2025-07-12 003817.png)
 
 ---
 
@@ -62,8 +57,8 @@ A simple and responsive full-stack To-Do List web application built using the **
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/to-do-mern.git
-cd to-do-mern
+git clone [https://github.com/your-username/to-do-mern](https://github.com/harish45264/To-Do-MERN).git
+cd To-Do-MERN
 ````
 
 ### 2. Backend Setup
@@ -127,14 +122,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 * [MongoDB](https://www.mongodb.com/)
 * [Express.js](https://expressjs.com/)
 
-```
-
----
-
-### ✅ Next Steps:
-- Replace `"your-username"` in the GitHub URL.
-- Rename the uploaded image as `screenshot.png` and place it in the project root.
-- Create a `LICENSE` file if you want to license the project.
-
-Let me know if you'd like this README in PDF or DOCX format too.
 ```
