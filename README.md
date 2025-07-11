@@ -48,7 +48,7 @@ A simple and responsive full-stack To-Do List web application built using the **
 
 ## 📸 Screenshot
 
-![App Screenshot](To-Do-MERN/Screenshot2025-07-12003817.png)
+![App Screenshot](To-Do-MERN/Screenshot.png)
 
 ---
 
