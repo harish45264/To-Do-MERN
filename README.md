@@ -48,7 +48,7 @@ A simple and responsive full-stack To-Do List web application built using the **
 
 ## 📸 Screenshot
 
-![App Screenshot](./Screenshot 2025-07-12 003817.png)
+![App Screenshot](To-Do-MERN/Screenshot.png)
 
 ---
 
@@ -106,12 +106,6 @@ The frontend will start on `http://localhost:3000`.
 ## 🤝 Contribution
 
 Feel free to fork the repository and submit pull requests. All contributions are welcome!
-
----
-
-## 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
